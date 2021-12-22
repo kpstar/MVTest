@@ -12,9 +12,11 @@
   "dependencies": {
     "expo": "~44.0.0",
     "expo-status-bar": "~1.2.0",
+    "native-base": "^2.13.14",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.3",
+    "react-native-responsive-dimensions": "^3.1.1",
     "react-native-web": "0.17.1"
   },
   "devDependencies": {
